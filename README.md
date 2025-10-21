@@ -7,7 +7,7 @@ Building intelligent robotic systems with ROS 2 and AI acceleration.
 Mechatronics Engineering passionate about robotics, AI, and embedded systems. Currently developing ROS 2 applications with AI acceleration on Hailo-8 and Raspberry Pi 5, integrating web technologies for real-time interaction.
 
 * 🌍  I'm based in México
-* ✉️  You can contact me at [albertolomberavelez@gmail.com](mailto:albertolomberavelez@gmail.com)
+* ✉️  You can contact me at [albertolomberavelez@gmail.com](mailto:lomberavelezalberto@gmail.com)
 
 
 <p align="left">
