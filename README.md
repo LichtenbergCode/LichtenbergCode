@@ -1,24 +1,159 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alberto Lombera
-========================================================================================================================================
+<div align="center">
+  <a href="#"><img src="https://i.pinimg.com/1200x/8e/3c/4e/8e3c4e858347d55dcd8a6676f1f94574.jpg" /></a>
+</div>
 
-Building intelligent robotic systems with ROS 2 and AI acceleration.
---------------------------------------------------------------------------------------
+<!--
 
-Mechatronics Engineering passionate about robotics, AI, and embedded systems. Currently developing ROS 2 applications with AI acceleration on Hailo-8 and Raspberry Pi 5, integrating web technologies for real-time interaction.
+<div align="center">
+  <a href="#" target="_blank"><img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  /></a>
+  <a href="#" target="_blank"><img align="left" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+</div>
+-->
+<br>
 
-* 🌍  I'm based in México
-* ✉️  You can contact me at [lomberavelezalberto@gmail.com](mailto:lomberavelezalberto@gmail.com)
+###
 
+<h3 align="center">• • •</h3>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+###
+
+<br>
+
+<div>
+
+```yaml
+name: "Alberto Lombera"
+located_in: "México"
+education: "Mechatronics Engineer"
+
+fields_of_interests:
+  - Robotics
+  - Applied AI
+  - Machine Learning
+  - Embedded Systems
+  - Automation
+  - Web Development
+
+technical_background:
+  - ROS2 (Humble & Jazzy)
+  - Python (intermediate)
+  - Modern C++ (basic)
+  - Edge AI (Hailo-8)
+  - Embedded Systems (PIC, ARM, UART/I2C/SPI)
+  - Industrial Control (PLCs, HMIs, VFDs, RS485)
+  - Docker & containerized robotics (basic)
+  - Version Control (Git/GitHub)
+  - Database Management (basic)
+
+currently_learning:
+  - Modern C++ (OOP, templates, memory management)
+  - Linear Algebra for robotics and vision
+  - AI and Machine Learning algorithms
+  - ROS2 multi-robot networking (DDS, QoS)
+
+hobbies:
+  - Drawing
+  - Basketball
+  - Programming
+  - Mechanical Design (SolidWorks)
+
+```
+
+</div>
+
+<br>
+
+###
+
+---
+
+###
+
+<br>
+
+<div align="center">
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ros" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="markdown logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="markdown logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" /></a>
+  <img width="12" />
+</div>
+
+###
+
+---
+
+###
+
+<!-- 
+###
+
+<div align="center">  
+<a href="#">
+  <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=dark&bg=151b22&animated=true&borderRadius=10px&hideProfile=true&idleMessage=Probably%20doing%20something%20else..." width="100%" height="auto" />
+</a>
+</div>
+
+###
+
+<h3 align="center">• • •</h3>
+-->
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LichtenbergCode&theme=dark&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-### Socials
+<br>
 
-<p align="left"> <a href="https://www.github.com/LichtenbergCode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/albertolombera21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@LichtenbergCode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<h3 align="center">• • •</h3>
 
-<a href="http://www.github.com/LichtenbergCode"><img src="https://github-readme-stats.vercel.app/api?username=LichtenbergCode&show_icons=true&hide=prs,issues,contribs&title_color=ec4899&text_color=64748b&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="LichtenbergCode's GitHub stats" /></a>
+###
+
+<br>
+
+<div align="center">
+  <a href="mailto:lomberavelezalberto@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
+  </a>
+    <img width="14" />
+  <a href="https://www.youtube.com/@LichtenbergCode" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="40" alt="youtube logo"  />
+  </a>
+    <img width="14" />
+  <a href="https://www.linkedin.com/in/albertolombera21/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn logo"  />
+  </a>
+</div>
+<br>
+
+---
