@@ -50,6 +50,7 @@ currently_learning:
   - Linear Algebra for robotics and vision
   - AI and Machine Learning algorithms
   - ROS2 multi-robot networking (DDS, QoS)
+  - AWS Services
 
 hobbies:
   - Drawing
@@ -60,7 +61,6 @@ hobbies:
 ```
 
 </div>
-
 <br>
 
 ###
@@ -70,7 +70,6 @@ hobbies:
 ###
 
 <br>
-
 <div align="center">
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
   <img width="12" />
@@ -101,6 +100,7 @@ hobbies:
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" /></a>
   <img width="12" />
 </div>
+<br>
 
 ###
 
@@ -154,6 +154,7 @@ hobbies:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn logo"  />
   </a>
 </div>
+
 <br>
 
 ---
