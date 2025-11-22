@@ -50,6 +50,7 @@ currently_learning:
   - Linear Algebra for robotics and vision
   - AI and Machine Learning algorithms
   - ROS2 multi-robot networking (DDS, QoS)
+  - Django
   - AWS Services
 
 hobbies:
