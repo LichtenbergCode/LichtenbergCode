@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://i.pinimg.com/1200x/8e/3c/4e/8e3c4e858347d55dcd8a6676f1f94574.jpg" /></a>
+  <img src="assets/3d-hero.svg" width="100%" />
 </div>
 
 <!--
