@@ -128,9 +128,9 @@ hobbies:
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br>
+  <br> <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=LichtenbergCode&theme=dark&hide_border=false" />
-  <br>
+  <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
@@ -148,11 +148,11 @@ hobbies:
   <a href="mailto:lomberavelezalberto@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
   </a>
-    <img width="14" />
+    <img width="20" />
   <a href="https://www.youtube.com/@LichtenbergCode" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="40" alt="youtube logo"  />
   </a>
-    <img width="14" />
+    <img width="20" />
   <a href="https://www.linkedin.com/in/albertolombera21/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn logo"  />
   </a>
