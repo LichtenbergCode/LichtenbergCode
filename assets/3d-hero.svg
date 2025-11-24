@@ -48,6 +48,16 @@
         0%,100%{opacity:0.6;}50%{opacity:1;}
       }
     </style>
+    <!-- Elementos del fondo cósmico -->
+    <circle stroke='#4F7269' vector-effect='non-scaling-stroke' id='a' fill='none' stroke-width='10' r='420' />
+    <use id='f' href='#a' stroke-dasharray='100 100 100 9999'/>
+    <use id='b' href='#a' stroke-dasharray='250 250 250 250 250 9999'/>
+    <use id='e' href='#a' stroke-dasharray='1000 500 1000 500 9999'/>
+    <use id='g' href='#a' stroke-dasharray='1500 9999'/>
+    <use id='h' href='#a' stroke-dasharray='2000 500 500 9999'/>
+    <use id='j' href='#a' stroke-dasharray='800 800 800 800 800 9999'/>
+    <use id='k' href='#a' stroke-dasharray='1200 1200 1200 1200 1200 9999'/>
+    <use id='l' href='#a' stroke-dasharray='1600 1600 1600 1600 1600 9999'/>
 
   </defs>
 
@@ -149,17 +159,6 @@
       </g>
     </g>
   </g>
-
-  <!-- Elementos del fondo cósmico -->
-  <circle stroke='#4F7269' vector-effect='non-scaling-stroke' id='a' fill='none' stroke-width='10' r='420' />
-  <use id='f' href='#a' stroke-dasharray='100 100 100 9999'/>
-  <use id='b' href='#a' stroke-dasharray='250 250 250 250 250 9999'/>
-  <use id='e' href='#a' stroke-dasharray='1000 500 1000 500 9999'/>
-  <use id='g' href='#a' stroke-dasharray='1500 9999'/>
-  <use id='h' href='#a' stroke-dasharray='2000 500 500 9999'/>
-  <use id='j' href='#a' stroke-dasharray='800 800 800 800 800 9999'/>
-  <use id='k' href='#a' stroke-dasharray='1200 1200 1200 1200 1200 9999'/>
-  <use id='l' href='#a' stroke-dasharray='1600 1600 1600 1600 1600 9999'/>
 
   <!-- Grid pattern futurista sutil -->
   <g opacity="0.08">
