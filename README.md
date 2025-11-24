@@ -21,43 +21,42 @@
 
 <div>
 
-```yaml
+```python
 name: "Alberto Lombera"
 located_in: "México"
 education: "Mechatronics Engineer"
 
-fields_of_interests:
-  - Robotics
-  - Applied AI
-  - Machine Learning
-  - Embedded Systems
-  - Automation
-  - Web Development
+fields_of_interests: [
+  "Robotics",
+  "Applied AI",
+  "Embedded Systems",
+  "Automation",
+  "Web Development"]
 
-technical_background:
-  - ROS2 (Humble & Jazzy)
-  - Python (intermediate)
-  - Modern C++ (basic)
-  - Edge AI (Hailo-8)
-  - Embedded Systems (PIC, ARM, UART/I2C/SPI)
-  - Industrial Control (PLCs, HMIs, VFDs, RS485)
-  - Docker & containerized robotics (basic)
-  - Version Control (Git/GitHub)
-  - Database Management (basic)
+technical_background: [
+  "ROS (Humble & Jazzy)",
+  "Python (intermediate)",
+  "Modern C++ (basic)",
+  "Edge AI (Hailo-8)",
+  "Embedded Systems (PIC, ARM, UART/I2C/SPI)",
+  "Industrial COntrol (PLCs, HMIs, VFDs, RS485)",
+  "Docker & Containerized robotics (basic)",
+  "Version Control (Git/GitHub)",
+  "Database Management (basic)"]
 
-currently_learning:
-  - Modern C++ (OOP, templates, memory management)
-  - Linear Algebra for robotics and vision
-  - AI and Machine Learning algorithms
-  - ROS2 multi-robot networking (DDS, QoS)
-  - Django
-  - AWS Services
+currently_learning: [
+  "Modern C++ (OOP, templates, memory management)",
+  "Linear Algebra for robotics and vision",
+  "AI and Machine Learning algorithms",
+  "ROS2 multi-robot networking (DDS, QoS)",
+  "Django",
+  "AWS Services" ]
 
-hobbies:
-  - Drawing
-  - Basketball
-  - Programming
-  - Mechanical Design (SolidWorks)
+hobbies: [
+  "Drawing",
+  "Basketball",
+  "Programming",
+  "Mechanical Design (SolidWorks)"]
 
 ```
 
