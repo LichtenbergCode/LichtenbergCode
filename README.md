@@ -71,31 +71,38 @@ hobbies: [
 
 <br>
 <div align="center">
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
+  <!--<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
   <img width="12" />
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
-  <img width="12" />
+  <img width="12" />-->
+  
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" alt="python logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="python logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="python logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="python logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="python logo" /></a>
+  <!--<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" /></a>
+  <img width="12" />-->  
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ros" height="40" alt="python logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="rp logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo" /></a>
+  <img width="12" />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tf logo" /></a>
   <img width="12" />
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
   <img width="12" />
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="markdown logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" /></a>
   <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="markdown logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" /></a>
   <img width="12" />
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" /></a>
   <img width="12" />
@@ -126,11 +133,12 @@ hobbies: [
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br> <br>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br> <br> --> 
   <img src="https://nirzak-streak-stats.vercel.app/?user=LichtenbergCode&theme=dark&hide_border=false" />
   <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LichtenbergCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+-->
 </p>
 
 <br>
