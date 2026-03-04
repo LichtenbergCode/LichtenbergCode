@@ -31,7 +31,7 @@ fields_of_interests: [
   "Applied AI",
   "Embedded Systems",
   "Automation",
-  "Web Development"]
+  "Backend"]
 
 technical_background: [
   "ROS (Humble & Jazzy)",
